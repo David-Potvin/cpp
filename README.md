@@ -1,3 +1,16 @@
+
+- [Le destructeur](#le-destructeur)
+- [Methode constante](#methode-constante)
+- [pointeur this](#pointeur-this)
+- [constructeur de copie](#constructeur-de-copie)
+- [Heritage](#heritage)
+- [portee protected](#portee-protected)
+- [methode virtuelle](#methode-virtuelle)
+- [methode virtuelles pures](#methode-virtuelles-pures)
+- [classes abstraites](#classes-abstraites)
+- [methode statique](#methode-statique)
+- [attribut statique](#attribut-statique)
+- [amitie](#amitie)
 ### Le destructeur
 Le destructeur permet de desallouer la memoire lorsqu'on fait une allocation dynamique 
 ```
@@ -136,15 +149,3 @@ une fonction f amie de la classe Vivant, peut modifier les attributs de la class
 Une fonction amie ne doit pas modifier l'instance de la classe
 
 Les fonctions amies doivent etre utilisees seulement si on ne peut pas faire autrement.
-- [Le destructeur](#le-destructeur)
-- [Methode constante](#methode-constante)
-- [pointeur this](#pointeur-this)
-- [constructeur de copie](#constructeur-de-copie)
-- [Heritage](#heritage)
-- [portee protected](#portee-protected)
-- [methode virtuelle](#methode-virtuelle)
-- [methode virtuelles pures](#methode-virtuelles-pures)
-- [classes abstraites](#classes-abstraites)
-- [methode statique](#methode-statique)
-- [attribut statique](#attribut-statique)
-- [amitie](#amitie)
